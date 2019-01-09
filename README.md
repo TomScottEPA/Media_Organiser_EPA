@@ -1,7 +1,5 @@
 # Media_Organiser_EPA
-<doctype html>
-
-<body style="@import url('https://fonts.googleapis.com/css?family=Happy+Monkey') font-family: 'Happy Monkey', cursive;">
+# Created By: Thomas Scott
 
 These are the files for my EPA project. </br>
 Updated Last: 09/01/2019
